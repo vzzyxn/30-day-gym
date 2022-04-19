@@ -1,9 +1,8 @@
-# 30-day-gym
-<b>Tracking coding activities of 30 days.
-       <br>
-          <body><hr>First thing first, this respository was created to track my coding progress.
-            <br><br>Day-1
-                <br>Hackerank >> Algorithms(warmup-section) ##notcompleted 
-                  <br>Respository created
-                     <br>Language == python >> c++
-            
+## 30-day-gym
+Tracking coding activities for 30 days.
+<br><br>First thing first, this respository was created to track my coding progress.
+<hr>
+   <h3>Day-1</h3>
+     <br><li>Hackerank Algorithms(warmup-section) = Not Completed <pre>code1</pre></li>
+        <li>Respository created</li>
+           <li>Language == python >> c++</li>
