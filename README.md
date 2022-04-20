@@ -14,7 +14,7 @@ Tracking coding activities for 30 days.
                  </hr>
 <hr>
       <h3>Day-3</h3>
-            Javascript >> freecodecamp
+            Javascript accessing,adding,and deleted elements in objects >> freecodecamp
                </hr>
 <hr>
 </body>
