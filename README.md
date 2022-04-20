@@ -6,3 +6,11 @@ Tracking coding activities for 30 days.
      <br><li>Hackerank Algorithms(warmup-section) = Not Completed <pre>code1</pre></li>
         <li>Respository created</li>
            <li>Language == python >> c++</li>
+              </hr>
+<hr>
+     <h3>Day-2</h3>
+           None 
+             <br>1st Day of procrastination
+                 </hr>
+<hr>
+</body>
