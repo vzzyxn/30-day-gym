@@ -13,4 +13,8 @@ Tracking coding activities for 30 days.
              <br>1st Day of procrastination
                  </hr>
 <hr>
+      <h3>Day-3</h3>
+            Javascript >> freecodecamp
+               </hr>
+<hr>
 </body>
