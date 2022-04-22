@@ -18,7 +18,11 @@ Tracking coding activities for 30 days.
                </hr>
 <hr> 
    <h3>Day-4</h3> 
-      HackerRank c++(pointer)
-      </hr>
+      <li>HackerRank c++(pointer)</li>
+        <li>Codechef Problem-solving algorithms(starters of 16) >> sum == ✓</li>
+          <li>Continue the problem Pass-or-fail >> finded the algorithm == ✓ >> code the prob</li>
+        <pre>code2</pre>
+                 </hr>
 <hr>
+
 </body>
