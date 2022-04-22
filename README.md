@@ -26,7 +26,7 @@ Tracking coding activities for 30 days.
 <hr> 
    <h3>Day-5</h3>
       <li>worked on and solved ✓<pre>code2</pre>
-        <li>solved another codechef problem rcbplay ✓</li>
+        <li>solved another codechef problem rcbplay using c++✓</li>
       </hr>
 <hr>
 </body>
