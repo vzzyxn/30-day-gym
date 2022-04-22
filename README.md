@@ -4,7 +4,7 @@ Tracking coding activities for 30 days.
 <hr>
    <h3>Day-1</h3>
      <br><li>HackerRank Algorithms(warmup-section) = Not Completed <pre>code1</pre></li>
-        <li>Respository created</li>
+        <li>Respository created ✓</li>
            <li>Language == python >> c++</li>
               </hr>
 <hr>
@@ -25,6 +25,8 @@ Tracking coding activities for 30 days.
                  </hr>
 <hr> 
    <h3>Day-5</h3>
+      <li>worked on and solved ✓<pre>code2</pre>
+        <li>solved another codechef problem rcbplay ✓</li>
       </hr>
 <hr>
 </body>
