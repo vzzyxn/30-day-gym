@@ -29,12 +29,16 @@ Tracking coding activities for 30 days.
         <li>solved another codechef problem rcbplay using c++✓</li>
       </hr>
 <hr>
-     <h4>Day-6</h3>
+     <h3>Day-6</h3>
         <li>Gone thorugh Beef project(open-source) >> from ubuntu vm, A type of social enginnering tool 
 which we can create a local linux server and then host a local server through using a default admin and password
 >> When ever a person tries to enter the hosted page through the link >> the admin of the hosted site directly gets some sort of information
 about the user like <br>1.operating system (or the machnine which he is logged) <br> 2.screen size of the machine <br> 3.the default browser
      </li>
-    <li>solved lazy-chef problem in codechef basic algorithms.
+    <li>solved lazy-chef problem in codechef basic algorithms.<.li> 
+   <h3>Day-7</h3>
+       <li>C++ pointers</li> 
+   </h3>
+   
 
 </body>
