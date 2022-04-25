@@ -36,9 +36,13 @@ which we can create a local linux server and then host a local server through us
 about the user like <br>1.operating system (or the machnine which he is logged) <br> 2.screen size of the machine <br> 3.the default browser
      </li>
     <li>solved lazy-chef problem in codechef basic algorithms.<.li> 
+   </hr>
+   <hr>
    <h3>Day-7</h3>
        <li>C++ pointers</li> 
    </h3>
+   </hr> 
+  
    
 
 </body>
