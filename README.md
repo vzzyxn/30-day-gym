@@ -42,6 +42,16 @@ about the user like <br>1.operating system (or the machnine which he is logged) 
        <li>C++ pointers</li> 
    </h3>
    </hr> 
+<hr>
+     <h3>Day-8</h3>
+<Li>lab programs nothing much</li>
+<Li>oh my posh terminal customizing</li>
+</Hr>
+<Hr> 
+    <H3>Day-9</h3>
+   <Li>fcp javascript, not statisfied </li>
+</Hr>
+
   
    
 
