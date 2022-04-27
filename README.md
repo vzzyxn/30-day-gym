@@ -35,7 +35,7 @@ which we can create a local linux server and then host a local server through us
 >> When ever a person tries to enter the hosted page through the link >> the admin of the hosted site directly gets some sort of information
 about the user like <br>1.operating system (or the machnine which he is logged) <br> 2.screen size of the machine <br> 3.the default browser
      </li>
-    <li>solved lazy-chef problem in codechef basic algorithms.<.li> 
+    <li>solved lazy-chef problem in codechef basic algorithms.</li> 
    </hr>
    <hr>
    <h3>Day-7</h3>
@@ -44,12 +44,12 @@ about the user like <br>1.operating system (or the machnine which he is logged) 
    </hr> 
 <hr>
      <h3>Day-8</h3>
-<Li>lab programs nothing much</li>
-<Li>oh my posh terminal customizing</li>
+<li>lab programs nothing much</li>
+<li>oh my posh terminal customizing</li>
 </Hr>
 <Hr> 
     <H3>Day-9</h3>
-   <Li>fcp javascript, not statisfied </li>
+   <li>fcp javascript, not statisfied</li>
 </Hr>
 
   
