@@ -46,11 +46,16 @@ about the user like <br>1.operating system (or the machnine which he is logged) 
      <h3>Day-8</h3>
 <li>lab programs nothing much</li>
 <li>oh my posh terminal customizing</li>
-</Hr>
-<Hr> 
-    <H3>Day-9</h3>
+</hr>
+<hr> 
+    <h3>Day-9</h3>
    <li>fcp javascript, not statisfied</li>
-</Hr>
+</hr>
+<hr>
+     <h3>Day-10</h3>
+       <li>none.Day2 of procastination</li>
+</hr>
+
 
   
    
