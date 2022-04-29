@@ -53,11 +53,11 @@ about the user like <br>1.operating system (or the machnine which he is logged) 
 </hr>
 <hr>
      <h3>Day-10</h3>
-       <li>none.Day2 of procastination</li>
+       <li>none, Day-2 of procastination</li>
 </hr>
-
-
-  
-   
-
+<hr> 
+   <h3>Day-11</h3>
+      <li>Coded none, Day-3 of procastination</li>
+      <li>Added linux as default os, bye to windows environment</li>
+   </hr> 
 </body>
