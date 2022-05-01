@@ -60,4 +60,16 @@ about the user like <br>1.operating system (or the machnine which he is logged) 
       <li>Coded none, Day-3 of procastination</li>
       <li>Added linux as default os, bye to windows environment</li>
    </hr> 
+<hr> 
+     <h3>Day-12</h3>
+      <li>None</li>
+   </hr>
+<hr> 
+     <h3>Day-13</h3>
+      <li>None</li>
+   </hr>
+<hr> 
+     <h3>Day-14</h3>
+      <li>Lab programs</li>
+   </hr>
 </body>
