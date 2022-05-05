@@ -76,5 +76,19 @@ about the user like <br>1.operating system (or the machnine which he is logged) 
    <h3>Day-15</h3>
       <li>CS50 project-0, worked and created search engine page using form action, created Image search page and implemented
             links so that user can redirect to whichever page one need's to.</li> 
-   </hr>      
+   </hr>
+<hr> 
+     <h3>Day-16</h3>
+        <li>Started Hardbet Basic algorithm Problem in codechef</li>
+        <li>Implemented the algorithm, checked but test wrong.</li>
+   </hr>
+<hr> 
+      <h3>Day-17</h3>
+        <li>Worked on the pending Hardbet problem-set, used a simple if-else statement with the 
+         Algorithm, test passed ✓</li>
+      </hr>
+<hr>
+      <h3>Day-18</h3>
+
+       </hr>
 </body>
