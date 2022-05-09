@@ -89,6 +89,13 @@ about the user like <br>1.operating system (or the machnine which he is logged) 
       </hr>
 <hr>
       <h3>Day-18</h3>
-
+          None 
        </hr>
+<hr>
+       <h3>Day-19</h3>
+          None
+       </hr>
+<hr>
+      <h3>Day-20</h3>
+          </hr>
 </body>
